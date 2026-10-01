@@ -1,7 +1,7 @@
 # 🪟 OutGrow | WhatsApp Phone Number Validator (Windows Edition)
 
 <div align="center">
-  <img src="screenshots/logo.png" alt="OutGrow Logo" width="160" />
+  <img src="screenshots/app_logo.png" alt="OutGrow Logo" width="160" />
   <br/>
   <p><strong>Enterprise-grade automated WhatsApp phone number verification & list hygiene platform built natively for Windows.</strong></p>
 
